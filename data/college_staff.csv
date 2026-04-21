@@ -1,0 +1,8 @@
+staff_id,first_name,last_name,age,department,gender,contact,email,city,salary,qualification
+101,Mahesh,Joshi,45,Math,M,78345,mahesh.joshi@email.com,Pune,67000,M.Ed
+102,Sanket,Kale,48,Physics,M,83553,sanket.kale@email.com,Nashik,48000,B.Ed
+103,Charan,Ade,40,General,M,24852,,pune,30000,Diploma
+104,Alisha,Shah,43,Chemistry,F,83935,alisha.shah@gmail.com,Nagpur,53000,M.Sc.
+105,Priyanka,Chopra,43,Library,F,84825,priyanka.chopra@gmail.com,Mumbai,40000,B.Ed.
+106,Ramesh,Shinde,34,Math,M,98345,ramesh.shinde@email.com,mumbai,33000,M.sc
+107,Sania,Shinde,45,Chemistry,f,56234,sania.shinde@email.com,nanded,49000,M.Ed.
