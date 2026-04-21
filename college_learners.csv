@@ -1,0 +1,15 @@
+student_id,first_name,last_name,student_age,gender,branch,contact,email_id,teacher_id
+1001,Sanskruti,Kawale,21,f,Science,34638,s.kawale@gmail.com,101
+1002,Kirti,Pune,22,f,Science,45625,k.pune@gmail.com,101
+1003,Soumya,Mohapatra,23,f,Science,55851,s.mohapatra@gmail.com,101
+1004,Gayatri,Kamble,22,f,Science,48598,g.kamble@gmail.com,101
+1005,Rudrani,Ujankar,22,f,Science,45986,r.ujankar@gmail.com,104
+1006,Shreya,Mali,22,f,Science,45366,s.mali@gmail.com,104
+1007,Ashwini,Lokhande,23,f,Science,25698,a.lokhande@gmail.com,102
+1008,Karan,arade,23,m,Science,58932,k.arade@gmail.com,102
+1009,varad,patil,23,m,Science,47789,v.patil@gmail.com,102
+1010,bhavesh,patil,23,m,Science,36479,b.patil@gmail.com,102
+1011,dakshil,dhande,23,m,Science,25779,d.dhande@gmail.com,106
+1012,shubham,patil,22,m,Science,69874,s.patil@gmail.com,106
+1013,sumit,kadam,22,m,Science,78945,s.kadam@gmail.com,107
+1014,shourya,kangude,22,m,Science,47895,s.kangude@gmail.com,101
