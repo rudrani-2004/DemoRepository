@@ -6,4 +6,4 @@ def table(num):
         print(f"{num}*{i}={num*i}")
         i=i+1
 no=int(input("Enter the number: "))
-table()
+table(no)
